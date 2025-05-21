@@ -97,3 +97,11 @@ Stakeholders can now:
 * Monitor occupancy to adjust pricing and marketing spend.
 
 ---
+
+![Occupancy](images/Occupancy.png)
+
+---
+
+![Occupancy](images/Occupancy_2.png)
+
+
