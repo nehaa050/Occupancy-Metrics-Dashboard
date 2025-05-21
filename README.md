@@ -105,3 +105,10 @@ Stakeholders can now:
 ![Occupancy](images/Occupancy_2.png)
 
 
+---
+
+## Accessing the Report
+
+View the interactive report on Power BI:
+
+https://app.powerbi.com/view?r=eyJrIjoiN2ZhMmVlZDItN2UyMi00OGEyLTlmY2UtOWY1MDk1NDMyZTk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
