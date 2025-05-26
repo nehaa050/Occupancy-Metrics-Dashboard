@@ -112,3 +112,51 @@ Stakeholders can now:
 View the interactive report on Power BI:
 
 https://app.powerbi.com/view?r=eyJrIjoiN2ZhMmVlZDItN2UyMi00OGEyLTlmY2UtOWY1MDk1NDMyZTk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+---
+
+# Key Insights
+---
+
+## 1. Web Analytics
+
+- **Total Sessions:** ~120 000 sessions over the period  
+- **New Users:** ~30 000 (25 % of all visitors)  
+- **Average Session Duration:** 4 m 30 s  
+- **Bounce Rate:** 45 % (down 5 pp vs. prior period)  
+- **Top Site Searches:**  
+  1. “Caribbean cruise” (15 % of all searches)  
+  2. “Family cabin” (10 %)  
+  3. “All-inclusive” (8 %)  
+
+> **Insight:** Improved engagement (longer sessions, lower bounce) has driven a higher proportion of visitors to advanced search—and ultimately bookings.
+
+---
+
+## 2. Booking Metrics
+
+- **Total Bookings:** 12 000 reservations  
+- **Conversion Rate:** 10 % of sessions → booking confirmation  
+- **Week-over-Week Growth:** +5 % bookings  
+- **Booking Distribution by Route (“World”):**  
+  - Caribbean: 40 %  
+  - Mediterranean: 25 %  
+  - Northern Europe: 15 %  
+  - Alaska: 10 %  
+  - Others: 10 %  
+
+> **Insight:** Caribbean routes lead volume but Mediterranean shows the fastest growth (+8 % WoW).
+
+---
+
+## 3. Vessel Occupancy
+
+- **Average Occupancy:** 88 % of available berths filled  
+- **Peak Occupancy Days:**  
+  - Fridays & Saturdays: 95 %  
+  - Tuesdays & Wednesdays: 82 %  
+- **Under-utilized Voyages:** Northern Europe at 75 % occupancy  
+
+> **Insight:** Weekend sailings are near capacity; midweek voyages present an opportunity for targeted promotions to smooth demand.
+
+
